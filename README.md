@@ -31,5 +31,6 @@
 
 <h3 align="left"> 🐧 Account statistics </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VallienneDIane&theme=monokai) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VallienneDiane&show_icons=true&theme=monokai)          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VallienneDiane&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 

@@ -4,7 +4,7 @@
 
 [![Github](https://img.shields.io/github/followers/VallienneDiane?label=Follow&style=social)](https://github.com/VallienneDiane)        ![](https://visitor-badge.laobi.icu/badge?page_id=VallienneDiane.VallienneDiane)
 
-<h3> 🌱 I’m currently learning a lot thanks to all 42's projects </h3>
+<h3> 🌱 I’m learning a lot thanks to all 42's projects </h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">  

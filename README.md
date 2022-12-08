@@ -14,6 +14,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="c" width="60" height="60" style="max-width: 100%;">
 </p>
 
 <h3> 📫 If you want to reach me : <a href="mailto:diane.vallienne@outlook.com"> send me an email 📩</a> </h3>
@@ -23,11 +25,6 @@
 <a href="https://www.linkedin.com/in/dianevallienne/">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Diane Vallienne" height="30" width="40" style="max-width: 100%;">
 </a>
-
-<a href="https://www.instagram.com/diane.vall/"> 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Diane Vallienne" height="30" width="40" style="max-width: 100%;">
-</a>
-
 
 <h3 align="left"> 🐧 Account statistics </h3>
 

@@ -4,6 +4,8 @@
 
 [![Github](https://img.shields.io/github/followers/VallienneDiane?label=Follow&style=social)](https://github.com/VallienneDiane)        ![](https://visitor-badge.laobi.icu/badge?page_id=VallienneDiane.VallienneDiane)
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkuvonwa004908lkvf6mhvh9/stats?cursusId=21&coalitionId=undefined" alt="dvallien's 42 stats" /></a>
+
 <h3> 🌱 I’m learning a lot thanks to all 42's projects </h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="60" height="60" style="max-width: 100%;">

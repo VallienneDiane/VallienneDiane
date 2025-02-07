@@ -2,7 +2,7 @@
   <h1 align="center">Hello, I’m Diane, welcome on my page ! 🌴 </h1>
 </p>
 
-<h2 align="center"> I'm currently a student at <a href="https://42lyon.fr/">42 Lyon</a> 💻 </h2>
+<h2 align="center"> I'm currently a Devops engineer </h2>
 
 [![Github](https://img.shields.io/github/followers/VallienneDiane?label=Follow&style=social)](https://github.com/VallienneDiane)        ![](https://visitor-badge.laobi.icu/badge?page_id=VallienneDiane.VallienneDiane)
 
